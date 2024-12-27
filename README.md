@@ -1,1 +1,1 @@
-# Momentary-Citrus-Blossom
+This work serves as an exploration of transforming sound into visual representation. By using code, I translate sound data into changes in color, shape, and position, breaking the boundary between the audible and the visible. The visual elements dynamically respond to rhythm, with shapes shifting in sync with the sound. Additionally, when the intensity of the rhythm reaches a certain threshold, colors change, adding another layer of visual transformation.# Momentary-Citrus-Blossom
